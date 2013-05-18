@@ -4,3 +4,14 @@ Installation
 -----------
 
     npm install
+
+Usage
+-----------
+
+    node index.js
+    
+    
+Links
+-----------
+
+http://code.google.com/p/s3fs/
